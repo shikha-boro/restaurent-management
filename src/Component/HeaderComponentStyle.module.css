@@ -1,0 +1,56 @@
+.header {
+  background: black;
+}
+
+.heading {
+  color: white;
+  text-align: center;
+}
+
+.orders {
+  color: red;
+}
+
+.logo {
+  width: 80px;
+  padding-left: 45px;
+}
+
+.logoHeader {
+  display: flex;
+  justify-content: space-around;
+
+
+
+}
+
+.login {
+  padding-left: 10px;
+}
+
+.headerRight {
+  display: flex;
+
+  justify-content: flex-end;
+
+}
+
+.loginButton {
+
+  background: #ec2044;
+  border: white;
+  border-radius: 15px;
+  color: white;
+  width: 61px;
+  height: 23px;
+}
+
+.logoHeading {
+  color: #ec2044;
+  height: 30px;
+  border-color: #ec2044;
+  background: white;
+  border-radius: 22px;
+  font-size: x-small;
+  font-weight: 600;
+}
